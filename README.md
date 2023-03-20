@@ -17,7 +17,7 @@ The script will output the results of the DNS enumeration for the specified IP a
 Example
 Here is an example of how to use autodig.sh:
 
-[](https://imgur.com/r6gDDQW.png)
+![](https://imgur.com/r6gDDQW.png)
 
 # Limitations
 autodig.sh has the following limitations:
